@@ -19,8 +19,8 @@
     "terser": "^5.10.0"
   },
   "files": [
-    "dist",
-    "index.js"
+    "index.js",
+    "index.mjs"
   ],
   "keywords": [
     "material-design",
